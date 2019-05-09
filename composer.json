@@ -1,0 +1,16 @@
+{
+    "name": "woshitang1990/composer_demo",
+    "description": "a test composer program",
+    "type": "prroject",
+    "require": {
+        "houdunwang/arr": "*"
+    },
+    "license": "test",
+    "authors": [
+        {
+            "name": "汤磊",
+            "email": "965570591@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
